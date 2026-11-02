@@ -1,4 +1,5 @@
-About me
+# About me
+
 🔭 I’m currently working on building security tooling, focusing on log analysis, network protocols, and automated incident triage workflows (like my Security Alert Triage & Incident Analysis System).<br><br>👯 I’m looking to collaborate on open-source security projects, SOC automation tools, and defensive cybersecurity initiatives.<br><br>🤝 I’m looking for help with advanced malware analysis techniques and enterprise SIEM deployment best practices.<br><br>🌱 I’m currently learning SOC operations, threat intelligence, and hands-on defense via platforms like TryHackMe and Hack The Box.<br><br>💬 Ask me about Python, FastAPI, Streamlit, and foundational security concepts like TCP/IP, DNS, and alert triage.<br><br>⚡ Fun fact: I love bridging the gap between AI/ML development and defensive cybersecurity!
 
 
